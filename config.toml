@@ -1,0 +1,6 @@
+[server]
+maxUploadSize = 400          # MB per file
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false

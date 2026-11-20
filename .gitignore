@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.pytest_cache/
+output/
+# tender documents are confidential - never commit them
+*.pdf
+*.zip
+!sample/*.pdf

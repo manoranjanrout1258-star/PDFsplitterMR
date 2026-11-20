@@ -1,0 +1,7 @@
+# Apne extra document types yahan likhein (optional). App start hote hi ye sidebar me aa jayenge.
+# Format (ek line = ek document):   Title = heading phrase 1 | heading phrase 2
+# '#' se shuru line ignore hoti hai. Phrase wahi likhein jo document ke HEADING me chhapa hota hai.
+#
+# Example:
+# Site Visit Report = site visit report | site inspection certificate
+# Dealer Solvency = dealer solvency letter
